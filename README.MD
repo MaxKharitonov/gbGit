@@ -1,1 +1,2 @@
-# Youkoso! Basic commands lesson 1.
+# Youkoso! Basic commands from lesson 1.
+
