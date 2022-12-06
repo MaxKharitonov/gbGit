@@ -11,6 +11,7 @@
         ' -m ' - Флаг, указывающий на то, что будет добавлено сообщение. 
 ***
 # Basic commands from lesson 2.
+> Very important information!
 * **`git branch`** - *Вывод списка веток репозитория.*
 * **`git branch 'branchName'`** - *Создание новой ветки.*
 * **`git branch -d 'branchName'`** - *Удаление ветки.*
