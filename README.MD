@@ -12,6 +12,7 @@
 ***
 # Basic commands from lesson 2.
 >       Not important information
+> Very important information!
 * **`git branch`** - *Вывод списка веток репозитория.*
 * **`git branch 'branchName'`** - *Создание новой ветки.*
 * **`git branch -d 'branchName'`** - *Удаление ветки.*
