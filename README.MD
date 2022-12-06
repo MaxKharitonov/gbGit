@@ -19,4 +19,5 @@
 * git log --graph - Вывод истории всех коммитов в виде дерева.
 * git merge 'branchName' - Слияние веток.
 * git merge --abort - Отмена слияния, произошедшее с конфликтом.   
+
 ![picture](img.jpg) 
