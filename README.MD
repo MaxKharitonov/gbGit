@@ -16,5 +16,5 @@
 * git checkout 'branchName' - Переключение на другую ветку.
 * git checkout -b 'branchName' - Создание новой ветки с переключением на нее.
 * git commit -am 'Changes info' - Добавление файлов в отслеживание и создание коммита.
-  
+* git log --graph - Вывод истории всех коммитов в виде дерева.  
 ![picture](img.jpg) 
