@@ -1,4 +1,6 @@
-># Watashi no shukudai e Youkoso! Yorohsiku onegai shimasu! 
+>## Youkoso! Sore wa watashi no shukudai desu. 
+>## Chekku shite kudasai.
+>## Yorohsiku onegai shimasu! 
 
 ># Basic commands from lesson 1.
 
