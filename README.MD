@@ -1,7 +1,3 @@
->## Youkoso! Sore wa watashi no shukudai desu. 
->## Chekku shite kudasai.
->## Yorohsiku onegai shimasu! 
-
 ># Basic commands from lesson 1.
 
 >1. **`git init`** - *Создание локального репозитория.*
